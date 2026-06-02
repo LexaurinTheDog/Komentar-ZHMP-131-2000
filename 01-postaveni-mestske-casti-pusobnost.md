@@ -24,6 +24,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 5764/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8833B926ED7013BAC125850A001E550B?openDocument) — 13. 11. 2019, kat. A
+  > „Povinnost městských částí hlavního města Prahy nahradit újmu vzniklou při nakládání s majetkem hlavního města Prahy svěřeným jim do správy nevylučuje současnou odpovědnost hlavního města Prahy za tutéž újmu"
+
 #### Trojí (resp. čtveré) postavení Prahy — odst. 1
 
 Odst. 1 zakládá pro Prahu unikátní právní postavení, které lze popsat jako **konkurující se vrstvení** čtyř právních rolí v jednom subjektu:
@@ -127,6 +132,11 @@ Odst. 4 zakotvuje povinnost HMP vykonávat finanční kontrolu podle zákona č.
 > *(4) Městské části zajišťují výkon finanční kontroly podle zvláštního právního předpisu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 5764/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8833B926ED7013BAC125850A001E550B?openDocument) — 13. 11. 2019, kat. A
+  > „Povinnost městských částí hlavního města Prahy nahradit újmu vzniklou při nakládání s majetkem hlavního města Prahy svěřeným jim do správy nevylučuje současnou odpovědnost hlavního města Prahy za tutéž újmu"
 
 #### Členění Prahy — odst. 1
 
@@ -926,6 +936,11 @@ HMP může Statutem nejen **kategoricky svěřit** věc MČ, ale i **stanovit ro
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 1811/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C971E9BDA893005BC12586D000187622?openDocument) — 10. 2. 2021, kat. A
+  > „Městská část spravující jednotky, které jí svěřil vlastník - hlavní město Praha, má právní zájem na odstranění vad prohlášení podle § 1168 o. z. Účastníky řízení podle § 1168 o. z. o odstranění vad prohlášení musí být všichni vlastníci jednotek dotčení vadami prohlášení"
+
 #### Institut svěřeného majetku
 
 § 19 je klíčové ustanovení o **majetkových vztazích** mezi HMP a MČ. Vychází z konstrukce, že **veškerý majetek je vlastnictvím HMP**, ale jeho části jsou MČ **svěřeny do správy** Statutem (resp. jeho změnou). Konstrukce je obdobou *commodatum publicum* — MČ má práva a povinnosti vlastníka v rozsahu vymezeném Statutem, ale formálně-právní vlastník zůstává HMP.
@@ -1334,6 +1349,13 @@ Přestupky projednává **MČ** (v přenesené působnosti). Speciální koordin
 > *(5) Městské části mohou nabývat věci do vlastnictví hlavního města Prahy. Tyto věci se městským částem svěřují dnem jejich nabytí do vlastnictví hlavního města Prahy.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 1811/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C971E9BDA893005BC12586D000187622?openDocument) — 10. 2. 2021, kat. A
+  > „Městská část spravující jednotky, které jí svěřil vlastník - hlavní město Praha, má právní zájem na odstranění vad prohlášení podle § 1168 o. z. Účastníky řízení podle § 1168 o. z. o odstranění vad prohlášení musí být všichni vlastníci jednotek dotčení vadami prohlášení"
+- *NS* [25 Cdo 5764/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8833B926ED7013BAC125850A001E550B?openDocument) — 13. 11. 2019, kat. A
+  > „Povinnost městských částí hlavního města Prahy nahradit újmu vzniklou při nakládání s majetkem hlavního města Prahy svěřeným jim do správy nevylučuje současnou odpovědnost hlavního města Prahy za tutéž újmu"
 
 #### Majetková konstrukce — odst. 1–3
 
