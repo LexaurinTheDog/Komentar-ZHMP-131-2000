@@ -19,6 +19,10 @@ Praha = **obec + kraj současně** (Čl. 13 Ústavy ČR jako hlavní město).
 - **Magistrát HMP** + ředitel
 - **Účinnost** — 12. 11. 2000 (zrušilo 418/1990)
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
