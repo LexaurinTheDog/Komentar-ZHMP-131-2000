@@ -26,3 +26,8 @@ Praha = **obec + kraj současně** (Čl. 13 Ústavy ČR jako hlavní město).
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
+
+<!-- LOCAL-VYKLADOVE-OTAZKY-LINK -->
+## Výkladové otázky a odpovědi
+
+- [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md) — předpisově konkrétní kontrolní otázky, odpovědi, místní opora a výslovně označené mezery komentáře.
